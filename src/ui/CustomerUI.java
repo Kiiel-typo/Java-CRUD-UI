@@ -173,7 +173,7 @@ public class CustomerUI {
 		frame.setLocationRelativeTo(null);
 		
 		frame.setResizable(false);
-		frame.setTitle("Customer Management");
+		frame.setTitle("Customer Management System");
 	}
 	
 	class CustListener implements ActionListener {
